@@ -1,4 +1,6 @@
 - 👋 Hi, I’m @Chinmoy1217
+- I'm a Cloud enthusiast
+- I have knowledge on AWS,Azure and GCP cloud platforms
 - 👀 I’m interested in android development
 - 🌱 I’m currently learning android using jetpack compose
 - 💞️ I’m looking to collaborate on cloud computing tasks
